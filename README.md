@@ -198,9 +198,9 @@ Note: the restart bat requires that User account control be disabled.
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at [Suzuya Support](https://t.me/SuzuyaSupport)
 ## How to setup on Heroku 
-For starters click on this button 
+Easy Deploy Button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godzilla-0/Suzuya_ProBot.git) 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/zYxDevs/AsunaYuuki"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45" alt="Deploy To Heroku"/></a></p>
 
 
 ## Credits
